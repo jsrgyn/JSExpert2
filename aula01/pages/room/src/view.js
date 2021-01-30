@@ -1,4 +1,4 @@
-class View {
+ class View {
   constructor() {
 
   }
@@ -27,12 +27,13 @@ class View {
     this.appendToHTMLTree(userId, video, isCurrentId)
   }
 
-  appendToHTMLTree(userId, video,) {
+  appendToHTMLTree(userId, video, isCurrentId) {
     const div = document.createElement('div')
     div.id = userId
     div.classList.add('wrapper')
     div.append(video)
     const div2 = document.createElement('div')
+    console.log('teste')
     div2.innerText = isCurrentId ? '' : userId
     div.append(div2)
 
