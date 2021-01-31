@@ -33,7 +33,6 @@
     div.classList.add('wrapper')
     div.append(video)
     const div2 = document.createElement('div')
-    console.log('teste')
     div2.innerText = isCurrentId ? '' : userId
     div.append(div2)
 

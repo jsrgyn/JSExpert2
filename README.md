@@ -28,6 +28,4 @@ npm i -D nodemon
 touch index.js
 npm start
 npm run dev
-
-Parei hoje com 36min
 ================================================================================

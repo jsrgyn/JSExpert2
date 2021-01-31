@@ -11,11 +11,12 @@ const recordClick = function (recorderBtn) {
 const onload = () => {
   const urlParams = new URLSearchParams(window.location.search);
   const room = urlParams.get('room');
-  console.log('this is the room 22222', room)
+  console.log('this is the room', room)
 
   // const recorderBtn = document.getElementById('record')
   // recorderBtn.addEventListener('click', recordClick(recorderBtn))
-
+  const socketUrl = 'http://localhost:3000'
+  const socketBuilder = new SocketBuilder({ socketUrl })
   const view = new View() 
   // view.renderVideo({ userId: 'test01', url: 'https://media.giphy.com/media/SLv4ETnzGZRWi3hyaN/giphy.mp4'})
   // view.renderVideo({ userId: 'test01', isCurrentId: true, url: 'https://media.giphy.com/media/SLv4ETnzGZRWi3hyaN/giphy.mp4'})
@@ -25,7 +26,8 @@ const onload = () => {
   const deps = {
     view,
     media,
-    room
+    room,
+    socketBuilder
   }
 
   Business.initialize(deps)
