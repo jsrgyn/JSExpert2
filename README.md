@@ -17,5 +17,17 @@ npm ci --silent
 npm start
 https://giphy.com/gifs/espn-football-alabama-nationalchampionship-SLv4ETnzGZRWi3hyaN/links
 https://media.giphy.com/media/SLv4ETnzGZRWi3hyaN/giphy.mp4
-Parei com 24min
+
+npm install -g live-server (outra opção para subir o projeto)
+live-server
+
+mkdir server
+pm init -y
+npm i socket.io@3.0.5
+npm i -D nodemon
+touch index.js
+npm start
+npm run dev
+
+Parei hoje com 36min
 ================================================================================
