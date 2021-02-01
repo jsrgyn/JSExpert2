@@ -29,3 +29,31 @@ touch index.js
 npm start
 npm run dev
 ================================================================================
+
+Dia 26/01/2021
+#2 - Comunicação em tempo real: 
+WebRTC, Peer Server e Eventos Personalizados
+#SemanaJSExpert
+
+---
+WebRTC = Web Real-Time Communication
+Peer-to-Peer ou P2P
+Signaling = coordenação da comunicação.
+Interactive Connectivity Establishment ou ICE --> Rota mais curta de comunicação entre os clientes.
+ICE Framework = Server Publico do Google.
+STUN Server = descobrir o endereço necessário para conexão.
+TURN Relay Server = garantir o tráfefo de mensagens e streams como contigência.
+
+Biblioteca "PeerJS"
+
+rm -rf node_modules
+
+npm init -y
+
+npm i peer@0.6.1
+https://www.npmjs.com/package/peer
+Na instalação estava dando erro no mac, resolvi com seguinte comando "npm cache clean --force"
+
+npm run dev
+
+================================================================================

@@ -1,0 +1,39 @@
+#2 - Comunicação em tempo real: WebRTC, Peer Server e Eventos Personalizados - #SemanaJSExpert
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/js-expert-week02-wa
+
+Sejam muito bem vindos a #SemanaJSExpert 2.0
+
+Nesta aula vamos conhecer as mágicas do WebRTC e como é a arquitetura e infraestrutura por trás tecnologia, configurar eventos importantes durante a chamada, usar o padrão builder para configurar mais eventos, e muito mais.
+
+Mas já preciso te avisar, é extremamente importante que você tenha feito o projeto da aula de ontem. 
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek
+▸ PeerServer: https://github.com/peers/peerjs-server
+▸ PeerJS: https://peerjs.com/docs.html#api
+▸ Deploying STUN and TURN servers (procure por este título no Link): https://www.html5rocks.com/en/tutoria... 
+▸ Browsers Compatíveis com Media Devices: https://caniuse.com/mdn-api_mediadevi...
+▸ Browsers Compatíveis com WebRTC: https://caniuse.com/?search=webrtc
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-js-expert-week02
+
+✅  LEITURA COMPLEMENTAR
+
+▸ WebRTC Basics: https://www.html5rocks.com/en/tutoria...
+▸ WebRTC Infrastructure: https://www.html5rocks.com/en/tutoria...
+▸ Node Turn: https://github.com/Atlantis-Software/...
+▸ O tipo Map: https://developer.mozilla.org/en-US/d...
+▸ Making a Simple P2P Web Game: https://www.toptal.com/webrtc/taming-...
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel
+▸ Blog: https://erickwendel.com.br/
+▸ Facebook: https://fb.com/page.erickwendel
+▸ Medium: https://medium.com/@erickwendel
+▸ Cursos: http://cursos.erickwendel.com.br/
+▸ Twitter: https://twitter.com/erickwendel_

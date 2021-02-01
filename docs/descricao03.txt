@@ -1,0 +1,37 @@
+#3 - O poder do Media Recorder - Gravação de grupos de vídeo conferencias - #SemanaJSExpert
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/js-expert-week02-wa
+
+Sejam muito bem vindos a #SemanaJSExpert 2.0
+
+Na aula de hoje eu vou te mostrar o poder do Media Recorder, a API do browser para gravação de grupos de usuários em videoconferências.
+
+Vamos ajustar o nosso app para iniciar gravações de forma individual, onde cada usuário conectado vai ter seu próprio arquivo de video. Você vai fazer download do arquivo localmente e poder reproduzir em qualquer lugar do mundo.
+
+Mas já preciso te avisar, é extremamente importante que você tenha feito o projeto da aula de ontem. 
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Canal no telegram: http://bit.ly/telegram-jsweek
+▸ Browsers Compatíveis com o Media Recorder: https://caniuse.com/?search=media%20r...
+▸ Reposta no StackOverflow sobre Regex: http://bit.ly/3iQKt3v
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-js-expert-week02
+
+✅  LEITURA COMPLEMENTAR
+
+▸ WebRTC Basics: https://www.html5rocks.com/en/tutoria...
+▸ WebRTC Infrastructure: https://www.html5rocks.com/en/tutoria...
+▸ WebRTC Recording PeerConnection Examples: https://webrtc.github.io/samples/src/...
+▸ WebRTC & Media Recorder: https://webrtc.github.io/samples/src/...
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel
+▸ Blog: https://erickwendel.com.br/
+▸ Facebook: https://fb.com/page.erickwendel
+▸ Medium: https://medium.com/@erickwendel
+▸ Cursos: http://cursos.erickwendel.com.br/
+▸ Twitter: https://twitter.com/erickwendel_
