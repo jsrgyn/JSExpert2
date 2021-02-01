@@ -1,0 +1,31 @@
+#4 - Binary Objects na Web: Fazendo Download de gravações e publicação na Web - #SemanaJSExpert
+
+Sejam muito bem vindos a #SemanaJSExpert 2.0
+
+Na aula de hoje vamos publicar todos os projetos na Web e ajustar o download dos arquivos binários gerados pelos vídeos para serem executados de qualquer lugar.
+
+E tudo isso, usando o conhecimento que você adquiriu nas últimas aulas.
+
+Aqui também vamos finalizar o nosso projeto, configurar o download dos arquivos, ajustar a gravação da stream dos usuários e publicar tudo isso em produção para ser acessado de qualquer lugar do mundo além de ativar o modo SSL em nosso PeerJS.
+
+Mas já preciso te avisar, é extremamente importante que você tenha feito o projeto da aula de ontem. 
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Lista Prioritária JS Expert: http://bit.ly/jsexpert-lista-prioritaria
+▸ Canal no telegram: http://bit.ly/telegram-jsweek
+▸ Issue Aberta do PeerJS no GitHub: http://bit.ly/peerjs-issue-stream
+▸ Atalhos do Git com o ZSH & OMZSH: https://ohmyz.sh/
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-js-expert-week02
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel
+▸ Blog: https://erickwendel.com.br/
+▸ Facebook: https://fb.com/page.erickwendel
+▸ Medium: https://medium.com/@erickwendel
+▸ Cursos: http://cursos.erickwendel.com.br/
+▸ Twitter: https://twitter.com/erickwendel_

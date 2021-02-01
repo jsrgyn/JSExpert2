@@ -1,0 +1,31 @@
+#1 - Estruturando o seu projeto Zoom: 3 Design Patterns que você precisa conhecer - #SemanaJSExpert
+
+Inscreva-se para receber os próximos videos em: https://bit.ly/js-expert-week02-wa
+
+Sejam muito bem vindos a #SemanaJSExpert 2.0
+
+Nesta aula, você vai entender a importancia de ser um dev especialista, o projeto que faremos durante a semana e a grande primeira aula.
+
+Aqui você vai conhecer os Design Patterns Builder, Dependency Injection e Event Delegation além de princípios de encapsulamento, responsabilidade única e muito mais!
+
+Você vai obter o aúdio e vídeo dos usuarios a partir da API do Browser a getUserMedia além de criar salas de conferencias para multi-usuários.
+
+Também vai criar um servidor de Web Socket usando SocketIO além de estabelecer a conexão entre cliente e servidor.
+
+✅  LINKS CITADOS NO VÍDEO
+
+▸ Template Inicial de Código, deixe um star no projeto 🔥 : http://bit.ly/jsexpert02-skeleton-ew
+▸ Canal no telegram: http://bit.ly/telegram-jsweek
+
+✅  CÓDIGO FONTE RESULTADO DAS AULAS
+
+▸ Deixe um star no projeto 🔥 : http://bit.ly/code-js-expert-week02
+
+✅  SIGA-ME NAS REDES SOCIAIS
+
+▸ Linkedin: https://linkedin.com/in/erickwendel
+▸ Blog: https://erickwendel.com.br/
+▸ Facebook: https://fb.com/page.erickwendel
+▸ Medium: https://medium.com/@erickwendel
+▸ Cursos: http://cursos.erickwendel.com.br/
+▸ Twitter: https://twitter.com/erickwendel_
