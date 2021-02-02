@@ -31,11 +31,12 @@ npm run dev
 ================================================================================
 
 Dia 26/01/2021
-#2 - Comunicação em tempo real: 
+#2 - Comunicação em tempo real:
 WebRTC, Peer Server e Eventos Personalizados
 #SemanaJSExpert
 
 ---
+
 WebRTC = Web Real-Time Communication
 Peer-to-Peer ou P2P
 Signaling = coordenação da comunicação.
@@ -55,5 +56,21 @@ https://www.npmjs.com/package/peer
 Na instalação estava dando erro no mac, resolvi com seguinte comando "npm cache clean --force"
 
 npm run dev
+
+================================================================================
+
+Dia 27/01/2021
+#3 - O poder do Media Recorder
+Gravação de grupos de vídeo conferencias
+#SemanaJSExpert
+
+---
+
+rm -rf \*\*/node_modules
+public = npm start
+server = npm start
+peer-s = npm run dev
+
+Parei em 10 min
 
 ================================================================================

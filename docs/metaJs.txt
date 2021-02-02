@@ -1,0 +1,33 @@
+1 => Javascript Testing - Muitos treinamentos por aí falam sobre práticas de testes lá pelo meio do curso.
+Mas isso é ruim porque eu como aluno quero praticar do jeito certo desde o início ao invés de ter que reaprender a dinâmica das aulas
+Pensando nisso, começamos o nosso primeiro módulo a todo vapor.
+Todas as aulas são pequenos projetos e ao fim do módulo temos um projeto grande.
+
+2 => Conceitos fundamentais sobre o ciclo de vida do Javascript - Já ouviu falar sobre Prototype Chaining, Coerção de tipos, Call Stack, Memory Heap e tipos de memória e referência em Javascript?
+São conceitos extremamente úteis que todos nós desenvolvedores Javascript precisamos entender para não ter surpresas no dia a dia.
+Além disso, na parte dois deste módulo você vai fazer um projeto bem bacana usando ECMAScript Modules no terminal e claro a divisão de responsabilidades.
+
+3 => Advanced Javascript Data Types - Nele exploramos os Generators e Iterators em Javascript explorando o tipo symbol para interceptar requisições
+Uma das coisas mais importantes neste módulo é que para falar dos métodos avançados como o Map, WeakMap, Set, WeakSet, E Reflect, eu entro no código fonte do Node.js para mostrar casos de uso de cada uma destes tipos de dados.
+
+4 => Expressões Regulares - RegEx - Uma das coisas mais assustadoras para desenvolvedores do mundo inteiro. Neste módulo você vai conhecer um padrão de projeto extremamente útil para construção de pipelines de operação, o Fluent API.
+Neste módulo, você vai aprender conceitos de segurança em expressões regulares, vamos alcançar 100% de cobertura de testes em código além de um projeto magnífico que vou te mostrar agora
+
+5 => Design Patterns - Neste módulo, você aprenderá para que servem os padrões de projeto. Vai entender os padrões mais usados além de desenvolver projetos para reutilização de código, manipulação de estado além de interceptação de funções ativas.
+
+6 => Node Package Manager (NPM) - Neste módulo você aprenderá a criar seu próprio pacote NPM. 
+Vai entender como versionar pacotes usando os principais padrões semânticos além de trabalhar com os padrões Multi e Mongo Repositories.
+
+7 => Node.js Streams - Neste módulo você aprenderá o que são e para que servem as Node.js Streams, trabalhando com informações sob demanda e alta escala. Vai entender as categorias de Streams além de boas práticas.
+
+8 => Node.js Command Line Interface (CLI) - Neste módulo você aprenderá sobre como trabalhar com arquivos, executar comandos shell de forma segura, além de entender os principais problemas em aplicações de linha de comando.
+
+9 => Performance - Neste módulo você aprenderá as funções nativas do Node.js para inspeção e resolução de gargalos de performance, além de analisar um programa existente identificando possíveis problemas.
+
+10 => Node.js Command Line Interface (CLI) - Neste módulo você aprenderá como manipular erros a partir de classes de erro, padrões de projeto e pacotes populares de mercado, além de conhecer ferramentas cloud para aumentar a produtividade no mapeamento de exceções.
+
+11 => Node.js long-running processing - Aqui você aprenderá sobre como processar funções de longa duração usando Worker Threads, Child processes e estratégias para programação não bloqueante.
+
+12 => Javascript Web Protocols - Neste módulo você entenderá o motivo de existência e em como selecionar protocolos de acordo com sua necessidade, tais como eles Sockets HTTP e UDP, HTTPS, HTTP 2 e mais.
+
+13 => Javascript Security - Neste módulo você aprenderá boas práticas de segurança em aplicações Javascript, além de execução de comandos via usuário.
