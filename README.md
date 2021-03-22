@@ -71,6 +71,6 @@ public = npm start
 server = npm start
 peer-s = npm run dev
 
-Parei em 10 min
+Parei em 25 min
 
 ================================================================================

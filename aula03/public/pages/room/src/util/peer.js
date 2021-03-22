@@ -62,7 +62,7 @@ class PeerBuilder {
         const peerCall = PeerCustomModule.prototype.call
         const context = this
         PeerCustomModule.prototype.call = function (id, stream) {
-            const call = peerCall.apple(this, [id, stream])
+            const call = peerCall.apply(this, [id, stream])
             // aqui acontece a magia, interceptamos o call e adicionamos todos os eventos
             // da chamada para quem liga também
             context._prepareCallEvent(call)
