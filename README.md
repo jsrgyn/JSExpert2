@@ -71,6 +71,15 @@ public = npm start
 server = npm start
 peer-s = npm run dev
 
-Parei em 25 min
+================================================================================
+
+Dia 28/01/2021
+#4 - Binary Objects na Web_ 
+Fazendo Download de gravações e publicação na Web
+#SemanaJSExpert
+
+parei com 7 min
+---
+
 
 ================================================================================
