@@ -145,5 +145,30 @@ class Business {
         this.recordingEnabled = recordingEnabled
 
         console.log('pressionou!!', recordingEnabled)
+
+        for(const [key, value] of this.usersRecordings) {
+            if(this.recordingEnabled) {
+                value.startRecording()
+                continue; 
+            }
+            // value.stopRecording()
+            this.stopRecording(key)
+        }
+    }
+    
+    // se um usuario entrar e sair da call durante uma gravanção
+    // precisamos parar as gravações anteriores dele
+    async stopRecording(userId) {
+        const usersRecordings = this.usersRecordings
+        for (const [key, value] of usersRecordings) {
+            const isContextUser = key.includes(userId)
+            if(!isContextUser) continue;
+
+            const rec = value
+            const isRecordingActive = rec.recordingActive
+            if(!isRecordingActive) continue;
+
+            await rec.stopRecording()
+        }
     }
  }
