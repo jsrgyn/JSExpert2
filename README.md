@@ -78,7 +78,7 @@ Dia 28/01/2021
 Fazendo Download de gravações e publicação na Web
 #SemanaJSExpert
 
-parei com 7 min
+parei com 19 min
 ---
 
 
