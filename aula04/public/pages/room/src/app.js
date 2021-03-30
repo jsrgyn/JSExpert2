@@ -15,7 +15,8 @@ const onload = () => {
 
   // const recorderBtn = document.getElementById('record')
   // recorderBtn.addEventListener('click', recordClick(recorderBtn))
-  const socketUrl = 'http://localhost:3000'
+  // const socketUrl = 'http://localhost:3000'
+  const socketUrl = 'https://secret-savannah-53407.herokuapp.com'
   const socketBuilder = new SocketBuilder({ socketUrl })
 
   // new Peer(undefined, {
@@ -26,8 +27,10 @@ const onload = () => {
   const peerConfig = Object.values({
     id: undefined,
     config: {
-    port: 9000,
-    host: 'localhost',
+      host: 'secure-sea-97795.herokuapp.com',
+      secure: true,
+    // port: 9000,
+    // host: 'localhost',
     path: '/'
     }
   })

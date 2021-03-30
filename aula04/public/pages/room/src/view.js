@@ -75,7 +75,7 @@
     return async() => {
       command()
 
-      await Util.sleep(1500)
+      await Util.sleep(3000)
       window.location = '/pages/home'
     }
   }

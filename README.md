@@ -78,7 +78,66 @@ Dia 28/01/2021
 Fazendo Download de gravações e publicação na Web
 #SemanaJSExpert
 
-parei com 19 min
+criar a conta no heroku
+https://www.heroku.com
+
+instalar heroku
+npm i -g heroku
+
+comandos:
+heroku login (Pw:13****H**@)
+*No plano free pode temos ter até 5 aplicação.
+git init
+heroku apps:create
+Os atalhos são com "Zsh" https://ohmyz.sh/
+git status ou gst
+git add . ou ga .
+git status ou gst
+git commit -m "message" ou gcsm "message" => git commit -m "all"
+git push heroku master
+O heroku cria as URL 
+https://secure-sea-97795.herokuapp.com => Incluir no APP.
+heroku log
+
+
+Subir o server -> serviço socket-io.
+git init
+git status
+heroku apps:create
+git status 
+git add .
+git status
+git commit -m "all"
+git push . ou gp
+git push heroku master
+O heroku cria a URL 
+https://secret-savannah-53407.herokuapp.com/ => Incluir no APP.
+heroku log
+
+Subir a public -> App do client.
+git init
+git status
+git add .
+heroku apps:create zoom-clone-jsr
+git status
+git commit -m "all"
+git push heroku master
+https://zoom-clone-jsr.herokuapp.com/
+
+Fazer alterações.
+git status
+git add .
+git commit -m "all"
+git push heroku master
+
+Para deletar
+heroku apps:delete
+
+depois é só informar o nome das aplicações.
+
+rm -rf .git
+
+parei em 32 min
 ---
 
 
