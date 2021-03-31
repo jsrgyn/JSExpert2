@@ -71,6 +71,92 @@ public = npm start
 server = npm start
 peer-s = npm run dev
 
-Parei em 25 min
+================================================================================
+
+Dia 28/01/2021
+#4 - Binary Objects na Web_ 
+Fazendo Download de gravações e publicação na Web
+#SemanaJSExpert
+
+criar a conta no heroku
+https://www.heroku.com
+
+instalar heroku
+npm i -g heroku
+
+comandos:
+heroku login (Pw:13****H**@)
+*No plano free pode temos ter até 5 aplicação.
+git init
+heroku apps:create
+Os atalhos são com "Zsh" https://ohmyz.sh/
+git status ou gst
+git add . ou ga .
+git status ou gst
+git commit -m "message" ou gcsm "message" => git commit -m "all"
+git push heroku master
+O heroku cria as URL 
+https://secure-sea-97795.herokuapp.com => Incluir no APP.
+heroku log
+
+
+Subir o server -> serviço socket-io.
+git init
+git status
+heroku apps:create
+git status 
+git add .
+git status
+git commit -m "all"
+git push . ou gp
+git push heroku master
+O heroku cria a URL 
+https://secret-savannah-53407.herokuapp.com/ => Incluir no APP.
+heroku log
+
+Subir a public -> App do client.
+git init
+git status
+git add .
+heroku apps:create zoom-clone-jsr
+git status
+git commit -m "all"
+git push heroku master
+https://zoom-clone-jsr.herokuapp.com/
+
+Fazer alterações.
+git status
+git add .
+git commit -m "all"
+git push heroku master
+
+Para deletar
+heroku apps:delete
+
+depois é só informar o nome das aplicações.
+
+rm -rf .git
+
+https://erickwendel.com.br/posts/1
+
+Modulos: 
+01 - Dinamica
+02 - Javascript Testing
+03 - Conceitos fundamentais
+04 - Sobre o ciclo de vida do Javascript
+05 - Advanced Javascript Data Types
+06 - Expressões Regulares - RegExp - Fluent API
+07 - Design Patterns
+08 - Node Package Manager - NPM
+09 - Node Comand Line Interface - CLI
+10 - Node.js Streams
+11 - Logging e Error Handling
+12 - Performance de apps
+13 - Node.js Long-running processes
+14 - Javascript Web Protocols
+15 - Javascript Security
+
+---
+
 
 ================================================================================
