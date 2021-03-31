@@ -137,7 +137,25 @@ depois é só informar o nome das aplicações.
 
 rm -rf .git
 
-parei em 32 min
+https://erickwendel.com.br/posts/1
+
+Modulos: 
+01 - Dinamica
+02 - Javascript Testing
+03 - Conceitos fundamentais
+04 - Sobre o ciclo de vida do Javascript
+05 - Advanced Javascript Data Types
+06 - Expressões Regulares - RegExp - Fluent API
+07 - Design Patterns
+08 - Node Package Manager - NPM
+09 - Node Comand Line Interface - CLI
+10 - Node.js Streams
+11 - Logging e Error Handling
+12 - Performance de apps
+13 - Node.js Long-running processes
+14 - Javascript Web Protocols
+15 - Javascript Security
+
 ---
 
 
